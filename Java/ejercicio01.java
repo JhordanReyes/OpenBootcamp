@@ -1,4 +1,4 @@
-package Java;
+package com.mycompany.cursojava;
 
 /**
  * @author Jhordan
